@@ -122,4 +122,4 @@ const App = () => {
 
 ## License
 
-[MIT License](https://github.com/baronchng/react-native-media-cache/blob/master/LICENSE) © Baron Ch'ng
+[MIT License](https://github.com/baronchng/react-native-media-cache/blob/master/LICENSE.md) © Baron Ch'ng
